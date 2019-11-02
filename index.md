@@ -9,7 +9,7 @@
       <p><b>合作导师：贾庆山（长聘副教授）</b></p>
     </td>
     <td width="25%">
-      <img src="/Gongming.jpg" width="100%">      % 插入证件照代码
+      <img src="/Gongming.jpg" width="100%"> 
     </td>
   </tr>
 </table>
