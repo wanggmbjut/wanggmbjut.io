@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/wanggmbjut/wanggmbjut.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wanggmbjut/wanggmbjut.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+###基本信息
+####通讯地址：清华大学自动化系智能与网络化系统研究中心，FIT楼3-619
+####E-mail：wanggm@tsinghua.edu.cn
+####合作导师：贾庆山（长聘副教授）
+###教育背景
+####2019年7月-至今 清华大学自动化系智能与网络化系统研究中心   博士后
+####2015年9月-2019年7月 北京工业大学 控制科学与工程 博士
+####2017年9月-2018年9月 美国俄勒冈大学 计算机与信息科学 联合培养博士
+####2012年9月-2015年5月 沈阳化工大学 控制科学与工程 硕士
+####2010年9月-2012年7月 曲阜师范大学 电气工程及其自动化 本科
+###研究方向
+####深度神经网络结构设计与优化，污水处理过程特征建模与水质预测，离散事件动态系统的神经网络优化与控制策略
+###代表性论著
+####[1] Wang G M, Qiao J F, Bi J, Li W j, Zhou M C. TL-GDBN: Growing Deep Belief Network With Transfer Learning. IEEE Transactions on Automation Science and Engineering, 2018, 16(2): 874-885.
+####[2] Wang G M, Jia Q-S, Qiao J F, Bi J, Liu C X. A sparse deep belief network with efficient fuzzy learning framework. Neural Networks, 2020, 121: 430-440.
+####[3] Qaio J F, Wang G M, Li W J, Li X L. A deep belief network with PLSR for nonlinear system modeling. Neural Networks, 2018, 104: 68-79. 
+####[4] Qaio J F, Wang G M, Li W J. An adaptive deep Q-learning strategy for handwritten digit recognition. Neural Networks, 2018, 107: 61-71. 
+####[5] Qaio J F, Wang G M, Li X L, Li W J. A self-organizing deep belief network for nonlinear system modeling. Applied Soft Computing, 2018, 65: 170-183.
+####[6] 王功明，乔俊飞，王磊. 一种能量函数意义下的生成式对抗网络. 自动化学报, 2018, 44(5): 793-803.
+####[7] 王功明，李文静，乔俊飞. 基于PLSR自适应深度信念网络的出水总磷预测. 化工学报, 2017, 68(5): 1987-1997.
+####[8] 乔俊飞，王功明，李晓理，韩红桂，柴伟. 基于自适应学习率的深度信念网设计与应用. 自动化学报, 2017, 43(8): 1339-1349.
